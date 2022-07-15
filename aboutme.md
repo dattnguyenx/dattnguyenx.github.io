@@ -3,6 +3,5 @@ layout: page
 title: About me
 subtitle:
 ---
+I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. My research focuses on Deep Learning based multimedia compression and representation, specialize in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
