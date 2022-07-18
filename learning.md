@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Open Learning"
+title: "Learning & Growing"
 date: "2022-07-18 17:16"
 excerpt: "An overview of freely available learning content on various topics (though mainly machine learning)."
 ---
