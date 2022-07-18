@@ -4,7 +4,7 @@ title: "Open Learning"
 date: "2022-07-18 17:16"
 excerpt: "An overview of freely available learning content on various topics (though mainly machine learning)."
 ---
-As a PhD candidate, on the way of just solving a small bug in the code or trying to come up with an entirely new algorithm, I've been autonomous learning and studying everyday. I will try to give a record of whatever I read/saw and can recommend on specific topics. I found it extremely helpful for myself for later lookup and I hope that it may help anyone interested. Most stuff will be about point cloud/video/image procesing, machine learning/deep learning, as my job is related to these topics. Besides, I might add also some posts related to my daily lifes.
+As a PhD candidate, on the way of just solving a small bug in the code to trying to come up with an entirely new algorithm, I've been autonomous learning and studying everyday. I will try to give a record of whatever I read/saw and can recommend on specific topics. I found them extremely helpful for myself for later lookup and I hope that it may also help anyone interested. Most stuff will be about point cloud/video/image procesing, machine learning/deep learning, as my job is related to these topics. Besides, I might add also some posts related to my daily lifes.
 
 
 ### Machine learning
