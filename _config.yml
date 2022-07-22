@@ -24,7 +24,7 @@ description: Where I digitalize myself!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Posts: "posts"
+  Posts: "index"
   Learning & Growing: "learning"
   Resume|CV: "resume"
 #  Resources:
