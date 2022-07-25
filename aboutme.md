@@ -5,6 +5,9 @@ subtitle:
 ---
 I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. My research focuses on Deep Learning based multimedia compression and representation, specialize in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
 
+**Research Interests:** Point Cloud compression, Point Cloud processing (segmentation, classification, completion,...),  Image/video processing, Deep Learning, Machine Learning, 
+
+
 **News:**
 * **June 2022** - I'll be presenting my first work as a PhD entiled "Learning-based Lossless Point Cloud Geometry Coding using Sparse Tensors" at the IEEE International Conference on Image Processing (ICIP 2022), 16-19 October 2022 Bordeaux, France.
 * **May 2022** - A manuscript submitted at IEEE Transactions on Circuits and Systems for Video Technology - one of the top journals in image/video/high-diemnsional data processing.
@@ -18,5 +21,8 @@ I am doing a PhD at the [Chair of Multimedia Communications and Signal Processin
 1. Thinh, P.H., Dat, N.T., Nam, P.N. et al. An Efficient QoE-Aware HTTP Adaptive Streaming over Software Defined Networking. Mobile Netw Appl 25, 2024–2036 (2020). 
 1. Thinh, P.H., Dat, N.T., Nam, P.N., Thanh, N.H., Huong, T.T. (2019). QoE-Aware Video Streaming over HTTP and Software Defined Networking. In: Duong, T., Vo, NS., Nguyen, L., Vien, QT., Nguyen, VD. (eds) Industrial Networks and Intelligent Systems. INISCOM 2019. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 293. Springer, Cham.
 
+**Reviewer:**
+1. Conference: [IEEE Visual Communications and Image Processing (VCIP)](https://ieeexplore.ieee.org/xpl/conhome/1800602/all-proceedings)
+2. Journal: [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
 
 
