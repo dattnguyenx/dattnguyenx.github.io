@@ -9,7 +9,12 @@ I am doing a PhD at the [Chair of Multimedia Communications and Signal Processin
 
 
 **News:**
-* **June 2022** - I'll be presenting my first work as a PhD entiled "Learning-based Lossless Point Cloud Geometry Coding using Sparse Tensors" at the IEEE International Conference on Image Processing (ICIP 2022), 16-19 October 2022 Bordeaux, France.
+* **December 2022** - I'll be joining Meta Reality Labs in Redmond, USA as n Research Scientist Intern starting in January 2023. 
+* **December 2022** - Good News! Our work on joint point cloud geometry and attribute compression has been accepted to the IEEE T-CSVT journal. The paper went through 2 rounds of peer review which took approximately 7 months. 
+* **November 2022** - I have a submission at the IEEE ICASSP 2023 which will take place in the Greek island of Rhodes from June 04 to June 09, 2023.
+* **November 2022** - EmpkinS' winter school takes place in the beautiful city - Hintertux, Austria.
+* **October 2022** - I am attending and presenting our work at the IEEE ICIP 2022 in Bordeaux, France.
+* **June 2022** - I'll be presenting my first work as a PhD entitled "Learning-based Lossless Point Cloud Geometry Coding using Sparse Tensors" at the IEEE International Conference on Image Processing (ICIP 2022), 16-19 October 2022 Bordeaux, France.
 * **May 2022** - A manuscript submitted at IEEE Transactions on Circuits and Systems for Video Technology - one of the top journals in image/video/high-diemnsional data processing.
 * **Feb 2022** - I recently accepted an internship offer at Meta Reality Labs (Facebook) which starts in December 2022. I'll be working on Point Clouds, Mesh Compression for immersive applications (VR, AR, ...). 
 
