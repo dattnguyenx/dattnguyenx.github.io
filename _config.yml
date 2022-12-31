@@ -24,8 +24,9 @@ description: Where I digitalize myself!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "openlearning"
-  Projects: "projects"
+  Posts: "index"
+  Learning & Growing: "learning"
+  Resume|CV: "resume"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -94,7 +95,7 @@ url-pretty: "weafre.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "kratzertblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+google_analytics: "UA-235211441-1"
 
 # Google Tag Manager ID
 #gtm: ""
