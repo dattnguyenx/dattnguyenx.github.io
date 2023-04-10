@@ -3,12 +3,14 @@ layout: post
 title: About me
 subtitle:
 ---
-I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. My research focuses on Deep Learning based multimedia compression and representation, specialize in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
+I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. I was an research scientist intern at Meta from Jan 2023 to March 2023. My research focuses on Deep Learning based multimedia compression and representation, specialize in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
 
-**Research Interests:** Point Cloud compression, Point Cloud processing (segmentation, classification, completion,...),  Image/video processing, Deep Learning, Machine Learning, 
+**Research Interests:** 3D data compression, 3D data processing (segmentation, classification, completion,...),  Image/video processing, Deep Learning, Machine Learning, 
 
 
 **News:**
+* **April 2023** - My internship at Meta has come to an end. I really enjoy the time working at Meta with an incredible team full of brilliant people. My main contribution is building an algorithm that adapts the resolution of a mesh to the camera viewpoint. The algorithm significantly reduces the number of triangles being rendered and thus increases FPS without visible distortions.
+* **Febuary 2023** - Good News! Our paper entitled "Deep probabilistic model for lossless scalable point cloud attribute compression" has been accepted for presentation at the International Conference on Acoustics, Speech, and Signal Processing 2023 (ICASSP 2023).  
 * **December 2022** - I'll be joining Meta Reality Labs in Redmond, USA as a Research Scientist Intern starting in January 2023. 
 * **December 2022** - Good News! Our work on joint point cloud geometry and attribute compression has been accepted to the IEEE T-CSVT journal. The paper went through 2 rounds of peer review which took approximately 7 months. 
 * **November 2022** - I have a submission at the IEEE ICASSP 2023 which will take place in the Greek island of Rhodes from June 04 to June 09, 2023.
@@ -25,9 +27,15 @@ I am doing a PhD at the [Chair of Multimedia Communications and Signal Processin
 1. Nguyen, D.T., Quach, M., Valenzise, G. and Duhamel, P., 2021. Lossless coding of point cloud geometry using a deep generative model. IEEE Transactions on Circuits and Systems for Video Technology, 31(12), pp.4617-4629.
 1. Thinh, P.H., Dat, N.T., Nam, P.N. et al. An Efficient QoE-Aware HTTP Adaptive Streaming over Software Defined Networking. Mobile Netw Appl 25, 2024–2036 (2020). 
 1. Thinh, P.H., Dat, N.T., Nam, P.N., Thanh, N.H., Huong, T.T. (2019). QoE-Aware Video Streaming over HTTP and Software Defined Networking. In: Duong, T., Vo, NS., Nguyen, L., Vien, QT., Nguyen, VD. (eds) Industrial Networks and Intelligent Systems. INISCOM 2019. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 293. Springer, Cham.
-
+Transactions on Visualization and Computer Graphics
 **Reviewer:**
 1. Conference: [IEEE Visual Communications and Image Processing (VCIP)](https://ieeexplore.ieee.org/xpl/conhome/1800602/all-proceedings)
 2. Journal: [Signal Processing: Image Communication](https://www.sciencedirect.com/journal/signal-processing-image-communication)
+3. Journal: [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+4. Journal: [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+
+
+
+
 
 
