@@ -24,7 +24,7 @@ Twitter cũng là nơi bạn có thể có được những thứ trên LinkedIn
 
 
 <figure>
- <img src='{{site.url}}/images/weightedloss.png' alt='Video coding standardization ' style="width:480px;height:80px;" class="center"/>
+ <img src='{{site.url}}/img/networking.jpeg' alt='Meta's Seattle Office' style="width:800px;height:500px;" class="center"/>
  <figcaption>
   <center>
 Networking
