@@ -5,133 +5,42 @@ date: 2023-04-10
 comments: true
 ---
 <ol>
-  <li>
-    Introduction
-  </li>
 <p style="font-size:110%;">
-  There are several techniques for image/video protection. One of the algorithms is watermarking meaning inserting marks into your content to protect content from copying, republishing and making money from it. Those marks can be visible or invisible, but they will introduce distortions on the original content. Another techniques is creating an compact identification for the images. A wellknown techniques is statistic analysis meaning the statistic in the pixel or transformed domain will be collected (hand crafted) and after used to generate a compact content representation which can be stored and identify the original content. Deep Neural Networks is raising as a powerful techniques in the recent years and using DNN to solve image fingerprinting problem is obviously not a bad idea. 
-</p>
-<figure>
- <img src='{{site.url}}/images/munich.jpg' alt='Video coding standardization ' style="width:480px;height:320px;" class="center"/>
- <figcaption>
-  <center>
-English garden in Munich, Germany
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-  So, what is a good image fingerprinting? yes, after googling we got the answers. It should have at least 2 properties, uniqueness and robustness. Uniqueness means the fingerprint of 2 diffrent image should be diffrent or classified diffrent. And when you modify the image such as adding some text, rotate, screenshoot or changing brightness at a certain level the fingerprint should be the same, it is robustness. We are going to see how to develop and train a Neural Networks to extract a embedding vector (call fingerprinting) from an image and of course fullfill  uniqueness and robustness requirement.
+  Mình đã bắt đầu năm 2023 với chuyến bay dài sang Mỹ cho kỳ thực tập tại Meta (Facebook), có nhiều thứ mình đã học được và những kinh nghiệm có được (professionally và personally) muốn chia sẻ cho mọi bất cứ ai quan tâm/ lỡ đi lạc vào đây :)). Những chia sẻ này là của cá nhân mình và chắc sẽ đúng hơn cho những người làm Tech, đặc biệt thiên về nghiên cứu.
 </p>
   <li>
-    Triplet Loss
+    Việc duy trì/phát triển các mối quan hệ rất quan trọng
   </li>
+Mình là người không giỏi duy trì các mối quan hệ trong cuộc sống, nhưng khi liên quan đến công việc thì mình luôn cố gắng duy trì các mối quan hệ mình đã biết và phát triển các mối quan hệ mới. Việc phát triển các mối quan hệ (networking) đã được nhắc nhiều lần từ lúc mình còn học đại học nhưng mình không nhận ra tầm quan trọng của nó cho đến khi vô tình có được những lợi ích nó mang lại. Một trong những cách để mình tìm kiếm mối quan hệ mới và duy trì các mối quan hệ cũ là sử dụng mạng xã hội. Rất tiếc đấy k phải là Facebook mà là [LinkedIn](https://www.linkedin.com/in/dat-nguyen-457b90108/) và [Twitter](https://twitter.com/DatTNguyenx). 
 <p style="font-size:110%;">
-Suppose that you are having an image that you want to protect, do not alow anyone modify and republish it. But some how bad guys have it and apply some changes on your images such as changing brightness, adding some text, rotate... And what you want is an algorithm to identify an image from internet is a duplicate of your image or not. Using triplet loss for is the first idea come up in my mind. Our problem can be express as finding a mapping function from pixel space to d-dimensional Euclidean space f(x) (in R<sup>d</sup>).  The formula of triplet loss was shown in figure below. 
+LinkedIn là mạng xã hội được thiết kế để tìm việc/thực tập, kết nối và mở rộng mối quan hệ trong công việc của bạn. Mình đã được manager bên Meta chủ động liên lạc và hỏi có hứng thú làm việc cho Meta không vì ông này biết một ông làm ở InterDigital và ông ở InterDigital lại biết ông giáo của mình hồi học Master. Ngoài ra LinkedIn cũng là nơi rất tốt để bạn cập nhật những công nghệ, giải pháp mới nhất; biết được xu hướng trong lĩnh vực của bạn khi mà bạn kết nối được với những người làm cùng lĩnh vực và biết họ đang làm gì. Mình nhớ là ChatGPT đã được nhắc đến nhiều trên LinkedIn trước 1,2 tháng gì đấy so với các trang mạng xã hội khác (Facebook, báo đài, ...)
 </p>
 <figure>
- <img src='{{site.url}}/images/tripletloss.png' alt='Video coding standardization ' style="width:480px;height:80px;" class="center"/>
+ <img src='{{site.url}}/img/networking.jpeg' alt='Video coding standardization ' style="width:800px;height:500px;" class="center"/>
  <figcaption>
   <center>
-Triplet loss.
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-where f<sup>a</sup> is the embedding vector of original image called anchor image,f<sup>b</sup> is embedding vector of modified image (positive image) and f<sup>n</sup> is for negative image (any other image except anchor and its replicas). By using this loss, we are maximize L2 distance between anchor and negative while minimize L2 distance between anchor and its duplicates. If we found the optimal function, the embedding of anchor and positive will be identical and diffrent to the embedding of negative (how far is depend on the alpha).
-</p>
-<figure>
- <img src='{{site.url}}/images/triplet_training.png' alt='Video coding standardization ' style="width:480px;height:80px;" class="center"/>
- <figcaption>
-  <center>
-Triplet training.
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-There is a problem with the loss function. Let assume that positive distance =0.5, negative distance =0.9 and alpha =0.3. Then the loss will be 0.5-0.9+0.3=-0.1 a negative value and our final loss will be max (0,loss)=0 and our model will not improve even we still want to have a smaller positive distance and bigger negative distance. There is a proposal to solve this problem by limit output by a sigmoid activation function in the last layer and use the loss less triplet loss as below: 
-</p>
-<figure>
- <img src='{{site.url}}/images/lossLess.png' alt='Video coding standardization ' style="width:480px;height:80px;" class="center"/>
- <figcaption>
-  <center>
-Lossless triplet loss
+Networking
  </center>
  </figcaption>
 </figure>
 
 <p style="font-size:110%;">
-This loss will never be smaller than 0 like the previous loss function, but using sigmoid activation introduces another problem. The model can learn something but sigmoid saturate and vanishing at some point which leads embedding vector converge to only 0 or 1. We can solve this using weighted negative distance to reduce the effect of negative distance on the loss: 
+Twitter cũng là nơi bạn có thể có được những thứ trên LinkedIn nhưng bớt formal. Có một nghiên cứu chỉ ra là nếu như bạn chia sẻ về công việc nghiên cứu của bạn trên Twitter thì sẽ nâng cao 45% lượng trích dẫn (citations), chắc điều này cũng sẽ đúng với một số ngành khác khi bạn muốn tăng visibility của công việc bạn đang làm.  Ngoài ra đây cũng là nơi mình cập nhật tin tức kinnh tế, chính trị, theo dõi bóng đá,...  :)). 
 </p>
+
+
 <figure>
  <img src='{{site.url}}/images/weightedloss.png' alt='Video coding standardization ' style="width:480px;height:80px;" class="center"/>
  <figcaption>
   <center>
-Weighted triplet loss
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-By using weight theta smaller than 1, gurantee at a certain level that the loss will not be smaller than 0. Assuming theta=0.4 and keeping positive distance =0.5, negative distance =0.9 and alpha =0.3 as in the previous example. Now the loss will be: 0.5-0.4*0.9+0.3=0.44 greater than 0, and model will keep learing to have a bigger negative distance. In this example, negative distance have to be greater than 2 assumming that positive distance still equal 0.5.
-</p>
-<figure>
- <img src='{{site.url}}/images/images.png' alt='Video coding standardization ' style="width:480px;height:360px;" class="center"/>
- <figcaption>
-  <center>
-Sample modified images 
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-<li>
-  Training 
-</li>
-For training, i use 2165 images from imagesNet as anchors. Applying some modifications such that adding text, changing brightness, screenshoot, mixing content to the anchor to create positive images. For negative, I use any image in dataset which are not anchor and positives. The same procedure also perform on another 1000 image from flick used as test dataset. All images are converted to black and white image to remove color similarity information. Some sample modified images before converting to black and whitea are shown above.
-</p>
-<figure>
- <img src='{{site.url}}/images/model.png' alt='Video coding standardization ' style="width:480px;height:360px;" class="center"/>
- <figcaption>
-  <center>
-Siamese model
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-I use 3 identical ResNet 18 base model to train triplet loss (Deep Network block in the figure above) with Adam optimizer (lr 5e-4 and then 1e-4 to avoid overfitting). Note that I do not using activation fuction in the last Dense 128 layer. The reason for doing that is using activation introduce lossing information from last Dense layer (Relu remove all negative value, sigmoid saturate all value out of range [0, 1].
-</p>
-  <li>
-    Results
-  </li>
-<p style="font-size:110%;" >
- After training for over 90 epochs when training loss is about 3.2 and validation loss equal 0.7, I stop the training (see the loss figure below). I use the base model to extract embedding vector of 1000 test images and save it as embedding database.  1000 randomly choosing test positive and 1000 negative image are use to comput confusion matrix. The test phase was perfomed  and final result are average over 10 runs. Recall, precision and F1 score are 0.95, 0.93 and 0.94 respectively.
-</p>
-<figure>
- <img src='{{site.url}}/images/loss.png' alt='Video coding standardization ' style="width:640px;height:360px;" class="center"/>
- <figcaption>
-  <center>
-Loss over 90 epochs
+Networking
  </center>
  </figcaption>
 </figure>
 
-<figure>
- <img src='{{site.url}}/images/wronglyclassified.jpeg' alt='Video coding standardization ' style="width:375px;height:221px;" class="center"/>
- <figcaption>
-  <center>
-Wrongly classified image and distance
- </center>
- </figcaption>
-</figure>
-<p style="font-size:110%;">
-  Our model archieve 99.5% percent on the test dataset. The image below shown top 5 image with the closest euclidean distance respect to querying image. The distance to the matched in the top 5 are printed also.
-</p>
-<figure>
- <img src='{{site.url}}/images/top5.jpeg' alt='Video coding standardization ' style="width:480px;height:270px;" class="center"/>
- <figcaption>
-  <center>
-Top 5 image correspond to query image.
- </center>
- </figcaption>
-</figure>
+ <li>
+    Việc duy trì/phát triển các mối quan hệ rất quan trọng
+  </li>
 
 
 <li>
