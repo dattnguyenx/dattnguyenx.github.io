@@ -21,16 +21,22 @@ Một trong những cách để mình tìm kiếm mối quan hệ mới và duy 
 <p style="font-size:100%;">
 Twitter cũng là nơi bạn có thể có được những thứ trên LinkedIn nhưng bớt formal. Có một nghiên cứu chỉ ra là nếu như bạn chia sẻ về công việc nghiên cứu của bạn trên Twitter thì sẽ nâng cao 45% lượng trích dẫn (citations), chắc điều này cũng sẽ đúng với một số ngành khác khi bạn muốn tăng visibility của công việc bạn đang làm.  Ngoài ra đây cũng là nơi mình cập nhật tin tức kinnh tế, chính trị, theo dõi bóng đá,...  :)). 
 </p>
-
-
 <figure>
- <img src='{{site.url}}/img/networking.jpeg' alt='Meta's Seattle Office' style="width:800px;height:500px;" class="center"/>
+ <img src='{{site.url}}/img/networking.jpeg' alt='Meta's Seattle Office' style="width:800px;height:500px;" class="center"
+ />
  <figcaption>
   <center>
 Networking
  </center>
  </figcaption>
 </figure>
+
+<div class="fig figcenter fighighlight">
+  <img src='{{site.url}}/img/networking.jpeg' alt='Meta's Seattle Office' style="width:800px;height:500px;" class="center" >
+  <div class="figcaption"><br> Architecture of AlexNet, as shown in the original paper (link above).<br>
+  </div>
+</div>
+
 
  <li>
     Trải nghiệm làm việc ở Meta
@@ -47,6 +53,8 @@ Meta's Seattle Office
  </figcaption>
 </figure>
 
+
+
 <p style="font-size:100%;">
 Công việc: Mình thường lên kế hoạch làm việc tuần sau vào mỗi chiều thứ 6, Move fast giúp mình có mindset hoàn thành mọi việc trong tuần mà mình dự định làm, không đợi đến sang tuần để hoàn thành nó, điều này giúp mình đạt được mục tiêu mình đề ra vào cuối kỳ thực tập và mình cũng thoải mái đi chơi vào cuối tuần khi không phải bận tâm vào những việc đang dang dở. Mình sẽ họp với team vào mỗi sáng thứ 5 nên việc lên kế hoạch trước cũng giúp mình biết được mình sẽ trình bày những gì và kế hoạch sang tuần của mình thế nào để mọi người cùng nắm được. Ngoài ra thì team mình phát triển công nghệ cho Metaverse, về những thứ mà chưa quá phổ biến ngoài xã hội, kể cả những người trong ngành/nhà đầu tư có kinh nghiệm có khi còn không tin, nên việc tập quen sống trong tương lai (Live in the future) là điều diễn ra hàng ngày :)). 
 </p>
@@ -61,9 +69,8 @@ Riêng mình thì mình tin định hướng hiện tại của Meta là đúng 
 </li>
 
 
+
 <p style="font-size:110%;"> 
 <a href="https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24">[1]Lossless Tripletloss: https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24</a>  <br />
 
-<a href="https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973">[2] Siamese Model: https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973 </a>
-</p>
 </ol>
