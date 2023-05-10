@@ -3,12 +3,13 @@ layout: post
 title: About me
 subtitle:
 ---
-I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. I was an research scientist intern at Meta from Jan 2023 to March 2023. My research focuses on Deep Learning based multimedia compression and representation, specialize in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
+I am doing a PhD at the [Chair of Multimedia Communications and Signal Processing](https://www.lms.tf.fau.eu/) of University of Erlangen-Nuremberg (FAU), Germany since May 2021. I was a research scientist intern at Meta from Jan 2023 to March 2023. My research focuses on Deep Learning based multimedia compression and representation, specializing in Point Cloud data. Previously I worked as a research engineer in the same topic at [CentraleSupélec](https://www.centralesupelec.fr/), France for 8 months.  I received my Master's degree in Multimedia Networking from Télécom ParisTech, Université Paris-Saclay in 2020. 
 
 **Research Interests:** 3D data compression, 3D data processing (segmentation, classification, completion,...),  Image/video processing, Deep Learning, Machine Learning, 
 
 
 **News:**
+* **May 2023** - I'll be in Rhodes island, Greece to present our work at ICASSP 2023 conference.
 * **April 2023** - My internship at Meta has come to an end. I really enjoy the time working at Meta with an incredible team full of brilliant people. My main contribution is building an algorithm that adapts the resolution of a mesh to the camera viewpoint. The algorithm significantly reduces the number of triangles being rendered and thus increases FPS without visible distortions.
 * **Febuary 2023** - Good News! Our paper entitled "Deep probabilistic model for lossless scalable point cloud attribute compression" has been accepted for presentation at the International Conference on Acoustics, Speech, and Signal Processing 2023 (ICASSP 2023).  
 * **December 2022** - I'll be joining Meta Reality Labs in Redmond, USA as a Research Scientist Intern starting in January 2023. 
