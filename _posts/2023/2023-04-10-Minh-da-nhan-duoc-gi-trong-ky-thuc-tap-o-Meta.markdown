@@ -6,7 +6,7 @@ comments: true
 ---
 <ol>
 <p style="font-size:110%;">
-  Mình đã bắt đầu năm 2023 với chuyến bay dài sang Mỹ cho kỳ thực tập tại Meta (Facebook), mình đã có thêm nhiều kinh nghiệm (professionally và personally) và rút ra được vài điều muốn chia sẻ cho mọi bất cứ ai quan tâm hoặc lỡ đi lạc vào đây :)). Kỳ thực tập của mình đã kết thúc hơn 1 tháng nhưng vì viết lách chưa bao giờ là sở trường nên đã mất khá nhiều thời gian để viết xong bài nài. Những chia sẻ này là của cá nhân mình và thiên về công việc cho những bạn cùng làm Tech, đặc biệt làm nghiên cứu.
+  Mình đã bắt đầu năm 2023 với chuyến bay dài sang Mỹ cho kỳ thực tập tại Meta (Facebook), mình đã có thêm nhiều kinh nghiệm (professionally và personally) và rút ra được vài điều muốn chia sẻ cho mọi bất cứ ai quan tâm hoặc lỡ đi lạc vào đây :)). Kỳ thực tập của mình đã kết thúc hơn 1 tháng nhưng vì viết lách chưa bao giờ là sở trường nên đã mất khá nhiều thời gian để viết xong bài này. Những chia sẻ này là của cá nhân mình và thiên về công việc cho những bạn cùng làm Tech, đặc biệt làm nghiên cứu.
 </p>
   
 
@@ -17,12 +17,14 @@ comments: true
 Cho đến thời điểm hiện tại, có thể nói làm việc ở Meta là nơi mang lại trải nghiệm mà mình thấy thích nhất. Từ quá trình hiring, onboarding, working cho đến lúc offboarding và post-offboarding đều diễn ra rất thuận lợi, mình không phải lo lắng quá nhiều thứ mà chỉ cần tập trung hoàn thành tốt công việc là ok.
 
 <figure>
+ <center>
  <img src='{{site.url}}/img/seattlemeta.png' alt='Meta Seattle' style="width:259px;height:300px;" class="center"/>
  <figcaption>
-  <center>
+ 
 Meta Seattle
- </center>
+ 
  </figcaption>
+ </center>
 </figure>
 
 
@@ -32,24 +34,28 @@ Meta Seattle
 Công việc: Hai trong 6 giá trị hay có thể hiểu nôm na là văn hoá làm việc của Meta mà mình cố uốn nắn bản thân theo trong thời gian thực tập, đó là 'Move fast' và 'Live in the future'. Riêng mình thì mình thường lên kế hoạch làm việc tuần sau vào mỗi chiều thứ 6. Move fast giúp mình có suy nghĩ nên hoàn thành mọi việc trong tuần mà mình dự định làm, không đợi đến sang tuần để hoàn thành nó, điều này giúp mình đạt được mục tiêu mình đề ra vào cuối kỳ thực tập và mình cũng thoải mái đi chơi vào cuối tuần khi không phải bận tâm vào những việc đang dang dở. Mình sẽ họp với team vào mỗi sáng thứ 5 nên việc lên kế hoạch trước cũng giúp mình biết được mình sẽ trình bày những gì và kế hoạch sang tuần của mình thế nào để mọi người cùng nắm được. Move fast cũng được thể hiện khá rõ trong cách mọi nguời trong team làm việc. </p>
 
 <figure>
+  <center>
  <img src='{{site.url}}/img/office.JPG' alt='Văn phòng làm việc ngổn ngang. Bàn của mình bên tay trái ngoài cùng có em mèo may mắn' style="width:400px;height:300px;" class="center"/>
  <figcaption>
-  <center>
+
 Văn phòng làm việc ngổn ngang. Bàn của mình bên tay trái ngoài cùng có em mèo may mắn
- </center>
+ 
  </figcaption>
+ </center>
 </figure>
 
 <p style="font-size:100%;">
 Tuy nhiên không vì thế mà làm việc ở Meta áp lực, miễn là mình hoàn thành công việc, ngày làm 8 tiếng hay 4 tiếng, ở nhà hay ở office không quá quan trọng. Thời gian mình thực tập chỉ khoảng 12 tuần, ban đầu mình dự định chỉ đến office cả tuần trong vài tuần đầu nhưng sau đó quyết định đến office trong toàn thời gian thay vì làm việc ở nhà từ 2-3 ngày/tuần. Có một phần nguyên nhân là lên công ty sẽ không phải lo nghĩ hôm nay ăn gì nhưng chủ yếu làm việc ở office giúp mình tập trung và có thể học hỏi được nhiều nhất từ đồng nghiệp. 
 </p>
 <figure>
+  <center>
  <img src='{{site.url}}/img/karaoke.jpg' alt='Karaoke vào chiều thứ 5' style="width:400px;height:300px;" class="center"/>
  <figcaption>
-  <center>
+
 Karaoke vào chiều thứ 5
- </center>
+
  </figcaption>
+  </center>
 </figure>
 
 <p style="font-size:100%;">
@@ -67,12 +73,14 @@ Cuộc sống ở Redmond/Seattle: Vợ mình được Meta đài thọ đi cùn
  </p>
 
 <figure>
+<center>
  <img src='{{site.url}}/img/driving.JPG' alt='Thành phố Seattle' style="width:225px;height:300px;" class="center"/>
  <figcaption>
-  <center>
+  
 Thành phố Seattle
- </center>
+
  </figcaption>
+  </center>
 </figure>
 
 <li>
@@ -80,7 +88,16 @@ Thành phố Seattle
   </li>
 Mình là người không giỏi duy trì các mối quan hệ trong cuộc sống, nhưng khi liên quan đến công việc thì mình luôn cố gắng duy trì các mối quan hệ mình đã biết và phát triển các mối quan hệ mới. Việc phát triển các mối quan hệ (networking) đã được nhắc nhiều lần từ lúc mình còn học đại học nhưng mình không nhận ra tầm quan trọng của nó cho đến khi vô tình có được những lợi ích nó mang lại. Ở Meta mình có thêm khá nhiều mối quan hệ, có cơ hội kết nối và học hỏi từ rất nhiều người giỏi, những người từng làm ở Apple, Google hay Microsoft, hay từng làm ở các trường đại học danh tiếng ở Mỹ. Có một điều khá là hay ho nhưng cũng không thoải mái khi mình mới vào làm đó là lúc ăn trưa đồng nghiệp sẽ tiếp tục nói chuyện công việc hoặc những thứ liên quan đến công việc (công ty đối thủ, công nghệ mới, ...). Tất nhiên là không bắt buộc, nhưng như một thói quen, mọi nẻo đường đều dẫn đến chuyện công việc :)). Nhưng dần dần thì mình quen và xem đấy như là cơ hội để được biết thêm nhiều hơn từ những lần lunch talks này, đặc biệt khi việc chém gió về đời sống xã hội không phải là sở trường. 
 
-
+<figure>
+ <center>
+ <img src='{{site.url}}/img/networking.jpeg' alt='Ko hiểu rõ một chấm tròn kia đại diện cho nhân viên của Facebook Reality Labs hay gì :))' style="width:760px;height:460px;" class="center"/>
+ <figcaption>
+ 
+Một bức ảnh treo tường ở Facebook Reality Labs
+ 
+ </figcaption>
+ </center>
+</figure>
 
 <p style="font-size:100%;">
 Ngoài việc gặp và nói chuyện thì một trong những cách khác để mình tìm kiếm mối quan hệ mới và duy trì các mối quan hệ cũ là sử dụng mạng xã hội. Rất tiếc đấy k phải là Facebook mà là <a href="https://www.linkedin.com/in/dat-nguyen-457b90108"> LinkedIn </a> và <a href="https://twitter.com/DatTNguyenx"> Twitter </a>. LinkedIn là mạng xã hội được thiết kế để tìm việc/thực tập, kết nối và mở rộng mối quan hệ trong công việc của bạn. Mình đã được manager bên Meta chủ động liên lạc và hỏi có hứng thú làm việc cho Meta không vì ông này biết một ông làm ở InterDigital và ông ở InterDigital lại biết ông giáo của mình hồi học Master. Ngoài ra LinkedIn cũng là nơi rất tốt để bạn cập nhật những công nghệ, giải pháp mới nhất; biết được xu hướng trong lĩnh vực của bạn khi mà bạn kết nối được với những người làm cùng lĩnh vực và biết họ đang làm gì. Mình nhớ là ChatGPT đã được nhắc đến nhiều trên LinkedIn rất sớm trước so với các trang mạng xã hội khác (Facebook, báo đài, ...)
@@ -101,14 +118,7 @@ Tấm bằng PhD
 <p style="font-size:100%;">
 Facebook Reality Labs ở Meta làm thiên hẳn về nghiên cứu, nên 100% có background về nghiên cứu và 100% thành viên trong team đều có bằng PhD, ngoại trừ mình đang trong quá trình làm PhD. Việc có bằng PhD không phải cái đảm bảo cho công việc nhưng mình cảm nhận được mình đang đi đúng hướng trên con đường sự nghiệp mà mình đã chọn. Mỗi nước/khu vực có khung thời gian làm PhD/cấu trúc PhD khác nhau, nhưng nhìn chung việc làm PhD đều khá áp lực, nhưng sau thời gian này thì mình thấy mọi người trong ngành mình có bước tiến trong sự nghiệp, và chắc là kỹ năng chịu áp lực tăng lên mức thượng thừa nên được các nhà tuyển dụng yêu thích :)). 
 </p>
-<figure>
- <img src='{{site.url}}/img/networking.jpeg' alt='Ko hiểu rõ một chấm tròn kia đại diện cho nhân viên của Facebook Reality Labs hay gì :))' style="width:760px;height:460px;" class="center"/>
- <figcaption>
-  <center>
-Ko hiểu rõ một chấm tròn kia đại diện cho nhân viên của Facebook Reality Labs hay gì :))
- </center>
- </figcaption>
-</figure>
+
 
 <p style="font-size:100%;">
 Nói riêng chút về việc làm PhD ở Đức vì nó có vài nét khác so với ở Mỹ. Ở Đức hầu hết khi bạn làm PhD thì bạn không còn là sinh viên mặc dù bạn có thể được gọi là PhD student, căn bản là vì bạn ký hợp đồng làm việc với trường đại học/công ty có thời hạn 3-5 năm, và công việc của bạn chủ yếu là nghiên cứu. Đấy là lý do vì sao mình gọi là làm PhD thay vì học PhD (làm Tiến sỹ/học Tiến sỹ). Ở Đức trong lúc làm PhD bạn cũng không đi thực tập như ở Mỹ, đồng nghiệp của mình ở Meta luôn có 2-3 kỳ thực tập ở nơi khác ngoài trường đại học trong suốt thời gian làm PhD. Mình thấy điều này khá bổ ích nhưng không phổ biến ở Đức. Để được đi sang Mỹ mình đã tốn không ít công để trao đổi với trường để sắp xếp công việc ở Đức và được đồng ý. 
