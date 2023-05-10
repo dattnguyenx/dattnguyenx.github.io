@@ -116,7 +116,7 @@ Twitter cũng là nơi bạn có thể có được những thứ trên LinkedIn
 Tấm bằng PhD
 </li>
 <p style="font-size:100%;">
-Facebook Reality Labs ở Meta làm thiên hẳn về nghiên cứu, nên 100% có background về nghiên cứu và 100% thành viên trong team đều có bằng PhD, ngoại trừ mình đang trong quá trình làm PhD. Việc có bằng PhD không phải cái đảm bảo cho công việc nhưng mình cảm nhận được mình đang đi đúng hướng trên con đường sự nghiệp mà mình đã chọn. Mỗi nước/khu vực có khung thời gian làm PhD/cấu trúc PhD khác nhau, nhưng nhìn chung việc làm PhD đều khá áp lực, nhưng sau thời gian này thì mình thấy mọi người trong ngành mình có bước tiến trong sự nghiệp, và chắc là kỹ năng chịu áp lực tăng lên mức thượng thừa nên được các nhà tuyển dụng yêu thích :)). 
+Facebook Reality Labs ở Meta làm thiên hẳn về nghiên cứu, nên 100% có background về nghiên cứu và 100% thành viên trong team đều có bằng PhD, ngoại trừ mình đang trong quá trình làm PhD. Việc có bằng PhD không phải cái đảm bảo cho công việc nhưng mình thấy phấn kích với hướng đi hiện tại, nhìn thấy bản thân mình có thể ở đâu trong vài năm tới và cảm nhận được mình đang đi đúng hướng trên con đường sự nghiệp mà mình đã chọn. Mỗi nước/khu vực có khung thời gian làm PhD/cấu trúc PhD khác nhau, nhưng nhìn chung việc làm PhD đều khá áp lực, nhưng sau thời gian này thì mình thấy mọi người trong ngành mình có bước tiến trong sự nghiệp, và chắc là kỹ năng chịu áp lực tăng lên mức thượng thừa nên được các nhà tuyển dụng yêu thích :)). 
 </p>
 
 
