@@ -58,7 +58,7 @@ Karaoke vào chiều thứ 5
   </center>
 </figure>
 
-<p style="font-size:100%;">
+<p style="font-size:100%;">
 
 Ngoài ra thì team mình phát triển công nghệ cho Metaverse, về những thứ mà chưa quá phổ biến ngoài xã hội, kể cả những người trong ngành/nhà đầu tư có kinh nghiệm có khi còn không tin, nên việc tập quen sống trong tương lai (Live in the future) nên là điều diễn ra hàng ngày :))  (nghe có vẻ chém gió nhưng là thật). 
 </p>
@@ -124,7 +124,7 @@ Facebook Reality Labs ở Meta làm thiên hẳn về nghiên cứu, nên 100% c
 Nói riêng chút về việc làm PhD ở Đức vì nó có vài nét khác so với ở Mỹ. Ở Đức hầu hết khi bạn làm PhD thì bạn không còn là sinh viên mặc dù bạn có thể được gọi là PhD student, căn bản là vì bạn ký hợp đồng làm việc với trường đại học/công ty có thời hạn 3-5 năm, và công việc của bạn chủ yếu là nghiên cứu. Đấy là lý do vì sao mình gọi là làm PhD thay vì học PhD (làm Tiến sỹ/học Tiến sỹ). Ở Đức trong lúc làm PhD bạn cũng không đi thực tập như ở Mỹ, đồng nghiệp của mình ở Meta luôn có 2-3 kỳ thực tập ở nơi khác ngoài trường đại học trong suốt thời gian làm PhD. Mình thấy điều này khá bổ ích nhưng không phổ biến ở Đức. Để được đi sang Mỹ mình đã tốn không ít công để trao đổi với trường để sắp xếp công việc ở Đức và được đồng ý. 
 </p>
 <p style="font-size:100%;">
-Mình có quay video để thu lại 1 ngày làm việc ở Meta nhưng chắc sang năm mới xuất bản được vì mình rất lười. Nhưng mình luôn cập nhật events ở <a href="https://weafre.github.io/aboutme"> đây </a> nhé. Cheers!
+Mình có quay video để thu lại 1 ngày làm việc ở Meta nhưng chắc sang năm mới xuất bản được vì mình rất lười. Nhưng mình luôn cập nhật events ở <a href="https://dattnguyenx.github.io/aboutme"> đây </a> nhé. Cheers!
 </p>
 
 
