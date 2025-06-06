@@ -25,7 +25,7 @@ description: Where I digitalize myself!
 navbar-links:
   About Me: "aboutme"
   Posts: "index"
-  Learning & Growing: "learning"
+  News: "news"
   Resume|CV: "resume"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
