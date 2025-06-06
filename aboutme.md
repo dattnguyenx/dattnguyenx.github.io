@@ -19,7 +19,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/html/2303.06519v2" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model <a href="https://arxiv.org/html/2303.06519v2" target="_blank">[PDF]</a></div>
@@ -31,7 +31,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2107.00400" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Lossless Coding of Point Cloud Geometry using a Deep Generative Model <a href="https://arxiv.org/abs/2107.00400" target="_blank">[PDF]</a></div>
@@ -43,7 +43,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://ieeexplore.ieee.org/document/9897827" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Learning-Based Lossless Point Cloud Geometry Coding Using Sparse Tensors <a href="https://ieeexplore.ieee.org/document/9897827" target="_blank">[PDF]</a></div>
@@ -55,7 +55,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/pdf/2011.14700" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Learning-based Lossless Compression of 3D Point Cloud Geometry <a href="https://arxiv.org/pdf/2011.14700" target="_blank">[PDF]</a></div>
@@ -67,7 +67,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2104.09859" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Multiscale Deep Context Modeling for Lossless Point Cloud Geometry Compression <a href="https://arxiv.org/abs/2104.09859" target="_blank">[PDF]</a></div>
@@ -79,7 +79,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2408.10665" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">End-to-End Learned Lossy Dynamic Point Cloud Attribute Compression <a href="https://arxiv.org/abs/2408.10665" target="_blank">[PDF]</a></div>
@@ -91,7 +91,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2303.06517" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Deep Probabilistic Model for Lossless Scalable Point Cloud Attribute Compression <a href="https://arxiv.org/abs/2303.06517" target="_blank">[PDF]</a></div>
@@ -103,7 +103,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://ieeexplore.ieee.org/document/10942966" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Multiresolution Point Cloud Compression for Real-Time Visualization and Streaming <a href="https://ieeexplore.ieee.org/document/10942966" target="_blank">[PDF]</a></div>
@@ -115,7 +115,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2304.12852" target="_blank">
-    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">The Bjøntegaard Bible: Why Your Way of Comparing Video Codecs May Be Wrong <a href="https://arxiv.org/abs/2304.12852" target="_blank">[PDF]</a></div>
