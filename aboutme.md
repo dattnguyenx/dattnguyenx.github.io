@@ -31,7 +31,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
 
 <div style="display: flex; margin-bottom: 2em;">
   <a href="https://arxiv.org/abs/2107.00400" target="_blank">
-    <img src="{{site.url}}/img/ls21.JPG" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
+    <img src="{{site.url}}/img/ls21.png" alt="Thumbnail" style="flex-shrink: 0; width: 200px; height: auto; margin-right: 30px;" />
   </a>
   <div>
     <div style="font-size: 1.5rem; font-weight: bold;">Lossless Coding of Point Cloud Geometry using a Deep Generative Model <a href="https://arxiv.org/abs/2107.00400" target="_blank">[PDF]</a></div>
