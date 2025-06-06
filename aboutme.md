@@ -24,7 +24,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model <a href="https://arxiv.org/html/2303.06519v2" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, André Kaup</div>
     <div style="font-size: 1.5rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2023</div>
-    <div style="font-size: 1.3rem;"><em>Proposes a learned conditional probability model to jointly compress geometry and attributes of point clouds with high efficiency and accuracy.</em></div>
+    <div style="font-size: 1.3rem;"><em>Employs sparse tensor-based neural networks for unified occupancy and attribute modeling with auto-regressive context, reportedly the first learning-based lossless joint geometry-attribute compression achieving 22.6% bitrate reduction over MPEG standards.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -35,7 +35,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Lossless Coding of Point Cloud Geometry using a Deep Generative Model <a href="https://arxiv.org/abs/2107.00400" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
     <div style="font-size: 1.5rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2021</div>
-    <div style="font-size: 1.3rem;"><em>Introduces a deep generative model to enable effective lossless geometry compression for point clouds with superior rate-distortion performance.</em></div>
+    <div style="font-size: 1.3rem;"><em>Employs deep auto-regressive networks for voxel occupancy probability estimation with adaptive block partitioning and context-aware arithmetic coding, achieving significant compression gains over traditional octree-based methods.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -46,7 +46,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Learning-Based Lossless Point Cloud Geometry Coding Using Sparse Tensors <a href="https://ieeexplore.ieee.org/document/9897827" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, André Kaup</div>
     <div style="font-size: 1.5rem;">IEEE International Conference on Image Processing (ICIP), 2022</div>
-    <div style="font-size: 1.3rem;"><em>Utilizes sparse tensor representations for scalable and efficient lossless point cloud geometry coding.</em></div>
+    <div style="font-size: 1.3rem;"><em>Proposes direct point-based lossless geometry compression using sparse convolutional networks for sequential voxel occupancy estimation, avoiding traditional voxel/octree representations while achieving 52% rate savings over MPEG standards with significantly reduced computational cost.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -57,7 +57,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Learning-based Lossless Compression of 3D Point Cloud Geometry <a href="https://arxiv.org/pdf/2011.14700" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
     <div style="font-size: 1.5rem;">ICASSP, 2021</div>
-    <div style="font-size: 1.3rem;"><em>Presents a neural compression framework that leverages contextual modeling for geometry encoding in 3D point clouds.</em></div>
+    <div style="font-size: 1.3rem;"><em>Introduces VoxelDNN, a hybrid octree-voxel compression approach using adaptive multi-resolution partitioning and masked convolutional networks for context modeling, achieving 28% rate savings over MPEG G-PCC while explicitly preserving geometric structures like planes and surfaces.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -68,7 +68,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Multiscale Deep Context Modeling for Lossless Point Cloud Geometry Compression <a href="https://arxiv.org/abs/2104.09859" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
     <div style="font-size: 1.5rem;">IEEE ICME Workshops, 2021</div>
-    <div style="font-size: 1.3rem;"><em>Explores a multiscale neural architecture to capture hierarchical spatial dependencies for efficient lossless geometry compression.</em></div>
+    <div style="font-size: 1.3rem;"><em>Introduces MSVoxelDNN with multiscale coarse-to-fine architecture and conditionally independent voxel grouping, significantly accelerating encoding/decoding over sequential VoxelDNN while maintaining 17.5% rate savings over G-PCC through parallel network evaluation per group.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -79,7 +79,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">End-to-End Learned Lossy Dynamic Point Cloud Attribute Compression <a href="https://arxiv.org/abs/2408.10665" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Daniel Zieger, Marc Stamminger, André Kaup</div>
     <div style="font-size: 1.5rem;">IEEE ICIP, 2024</div>
-    <div style="font-size: 1.3rem;"><em>An end-to-end trainable network designed to compress dynamic point cloud attributes under lossy settings, enabling high visual fidelity at low bitrate.</em></div>
+    <div style="font-size: 1.3rem;"><em>Proposes end-to-end learned dynamic lossy attribute compression using high-dimensional convolutions for inter-point dependency modeling and auto-regressive latent context encoding.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -90,7 +90,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Deep Probabilistic Model for Lossless Scalable Point Cloud Attribute Compression <a href="https://arxiv.org/abs/2303.06517" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Kamal Gopikrishnan Nambiar, André Kaup</div>
     <div style="font-size: 1.5rem;">ICASSP, 2023</div>
-    <div style="font-size: 1.3rem;"><em>Proposes a probabilistic hierarchical model to scale attribute compression in lossless point cloud pipelines.</em></div>
+    <div style="font-size: 1.3rem;"><em>Introduces MNeT, a multiscale end-to-end lossless attribute compression method with progressive latent projection and scalable coding capability, achieving comparable performance to G-PCC v14 while being substantially faster in coding time through single network prediction.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -101,7 +101,7 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">Multiresolution Point Cloud Compression for Real-Time Visualization and Streaming <a href="https://ieeexplore.ieee.org/document/10942966" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;"><strong>Nguyen, Dat Thanh</strong>, Daniel Zieger, Markus Gambietz, Anne Koelewijn, Marc Stamminger, André Kaup</div>
     <div style="font-size: 1.5rem;">IEEE Asilomar Conference, 2024</div>
-    <div style="font-size: 1.3rem;"><em>A multiresolution coding method for large-scale point cloud streaming with real-time decoding support.</em></div>
+    <div style="font-size: 1.3rem;"><em>Presents a multiresolution point cloud visualization system with octree-based hierarchical encoding and viewpoint-adaptive resolution selection, enabling dynamic quality adaptation for streaming applications with faster rendering times compared to existing visualization software.</em></div>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
@@ -112,6 +112,12 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <div style="font-size: 1.5rem; font-weight: bold;">The Bjøntegaard Bible: Why Your Way of Comparing Video Codecs May Be Wrong <a href="https://arxiv.org/abs/2304.12852" target="_blank">[PDF]</a></div>
     <div style="font-size: 1.5rem;">Herglotz, C., et al. including <strong>Nguyen, D.T.</strong></div>
     <div style="font-size: 1.5rem;">IEEE Transactions on Image Processing, 2024</div>
-    <div style="font-size: 1.3rem;"><em>Critically analyzes the Bjøntegaard metric and proposes improved evaluation methods for video codec comparison.</em></div>
+    <div style="font-size: 1.3rem;"><em>Comprehensive BD evaluation using hybrid/neural codecs on multiple video types (360°, point clouds, screen) with interpolation analysis reveals standard applications achieve <0.5% accuracy while specialized metrics need more supporting points to halve 5% errors.</em></div>
   </div>
 </div>
+---
+## Links
+
+- [Posts](https://dattnguyenx.github.io/index)
+- [News](https://dattnguyenx.github.io/news)  
+- [Resume](https://dattnguyenx.github.io/resume)
