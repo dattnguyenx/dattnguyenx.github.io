@@ -44,35 +44,3 @@ excerpt: "An overview of freely available learning content on various topics (th
 4. Journal: [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 5. Conference: [IEEE International Conference on Image Processing](https://ieeexplore.ieee.org/xpl/conhome/10647221/proceeding)
 6. Conference: [International Conference on Acoustics, Speech, and Signal Processing (ICASSP)](https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings)
-<!-- 
-### Machine learning
-
-#### Courses
-- [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) by Patrick Winston (23 lectures + 7 Mega-Recitations)
-
-
-#### Videos
-- [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA) - GoogleTechTalk by Laurens van der Maaten presenting t-SNE
-
-
-#### Blogs/Sites
-- [Andrej Karpathys Blog](https://karpathy.github.io) - Blog with a lot of well written articles mainly about CV and CNNs
-- [PixelCNN](https://bjlkeng.github.io/posts/pixelcnn/) - Detail explaination on PixelCNN paper
-
-
-### Programming
-
-#### Videos
-- [Introduction to DL with Python](https://www.youtube.com/watch?v=S75EdAcXHKk) - Presentation by Alec Radford giving an overview of Deep Learning with Theano
-
-#### Blogs/Sites
-- [Undocumented Matlab](http://undocumentedmatlab.com/) - One of the best Matlab related Sites I know.
-- [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine/) - Minkowski Engine documentation website, power tool for high dimensional data processing.
-
-
-### General Scientific stuff
-
-#### Videos
--[How to write a Scientific Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Talk by Simon Peyton Jones
-### General stuff (in En and Vi)
-- [Dau tu ETF](https://cuocsongoduc.org/tai_chinh/mua-co-phieu-etf-o-duc-4/) Tinh thue, phi khi dau tu chung khoan o Duc -->
