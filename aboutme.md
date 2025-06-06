@@ -22,10 +22,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model <a href="https://ieeexplore.ieee.org/document/10210856" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, André Kaup</div>
-    <div style="font-size: 1*1.25rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2023</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Proposes a learned conditional probability model to jointly compress geometry and attributes of point clouds with high efficiency and accuracy.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model <a href="https://ieeexplore.ieee.org/document/10210856" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, André Kaup</div>
+    <div style="font-size: 1.15rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2023</div>
+    <div style="font-size: 1.05rem;"><em>Proposes a learned conditional probability model to jointly compress geometry and attributes of point clouds with high efficiency and accuracy.</em></div>
   </div>
 </div>
 
@@ -34,10 +34,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Lossless Coding of Point Cloud Geometry using a Deep Generative Model <a href="https://ieeexplore.ieee.org/document/9521778" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
-    <div style="font-size: 1*1.25rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2021</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Introduces a deep generative model to enable effective lossless geometry compression for point clouds with superior rate-distortion performance.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Lossless Coding of Point Cloud Geometry using a Deep Generative Model <a href="https://ieeexplore.ieee.org/document/9521778" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
+    <div style="font-size: 1.15rem;">IEEE Transactions on Circuits and Systems for Video Technology, 2021</div>
+    <div style="font-size: 1.05rem;"><em>Introduces a deep generative model to enable effective lossless geometry compression for point clouds with superior rate-distortion performance.</em></div>
   </div>
 </div>
 
@@ -46,10 +46,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Learning-Based Lossless Point Cloud Geometry Coding Using Sparse Tensors <a href="https://ieeexplore.ieee.org/document/9897446" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, André Kaup</div>
-    <div style="font-size: 1*1.25rem;">IEEE International Conference on Image Processing (ICIP), 2022</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Utilizes sparse tensor representations for scalable and efficient lossless point cloud geometry coding.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Learning-Based Lossless Point Cloud Geometry Coding Using Sparse Tensors <a href="https://ieeexplore.ieee.org/document/9897446" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, André Kaup</div>
+    <div style="font-size: 1.15rem;">IEEE International Conference on Image Processing (ICIP), 2022</div>
+    <div style="font-size: 1.05rem;"><em>Utilizes sparse tensor representations for scalable and efficient lossless point cloud geometry coding.</em></div>
   </div>
 </div>
 
@@ -58,10 +58,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Learning-based Lossless Compression of 3D Point Cloud Geometry <a href="https://ieeexplore.ieee.org/document/9413773" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
-    <div style="font-size: 1*1.25rem;">ICASSP, 2021</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Presents a neural compression framework that leverages contextual modeling for geometry encoding in 3D point clouds.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Learning-based Lossless Compression of 3D Point Cloud Geometry <a href="https://ieeexplore.ieee.org/document/9413773" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
+    <div style="font-size: 1.15rem;">ICASSP, 2021</div>
+    <div style="font-size: 1.05rem;"><em>Presents a neural compression framework that leverages contextual modeling for geometry encoding in 3D point clouds.</em></div>
   </div>
 </div>
 
@@ -70,10 +70,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Multiscale Deep Context Modeling for Lossless Point Cloud Geometry Compression <a href="https://ieeexplore.ieee.org/document/9456133" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
-    <div style="font-size: 1*1.25rem;">IEEE ICME Workshops, 2021</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Explores a multiscale neural architecture to capture hierarchical spatial dependencies for efficient lossless geometry compression.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Multiscale Deep Context Modeling for Lossless Point Cloud Geometry Compression <a href="https://ieeexplore.ieee.org/document/9456133" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Maurice Quach, Giuseppe Valenzise, Pierre Duhamel</div>
+    <div style="font-size: 1.15rem;">IEEE ICME Workshops, 2021</div>
+    <div style="font-size: 1.05rem;"><em>Explores a multiscale neural architecture to capture hierarchical spatial dependencies for efficient lossless geometry compression.</em></div>
   </div>
 </div>
 
@@ -82,10 +82,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">End-to-End Learned Lossy Dynamic Point Cloud Attribute Compression <a href="https://ieeexplore.ieee.org/document/10444190" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Daniel Zieger, Marc Stamminger, André Kaup</div>
-    <div style="font-size: 1*1.25rem;">IEEE ICIP, 2024</div>
-    <div style="font-size: 0.95*1.25rem;"><em>An end-to-end trainable network designed to compress dynamic point cloud attributes under lossy settings, enabling high visual fidelity at low bitrate.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">End-to-End Learned Lossy Dynamic Point Cloud Attribute Compression <a href="https://ieeexplore.ieee.org/document/10444190" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Daniel Zieger, Marc Stamminger, André Kaup</div>
+    <div style="font-size: 1.15rem;">IEEE ICIP, 2024</div>
+    <div style="font-size: 1.05rem;"><em>An end-to-end trainable network designed to compress dynamic point cloud attributes under lossy settings, enabling high visual fidelity at low bitrate.</em></div>
   </div>
 </div>
 
@@ -94,10 +94,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Deep Probabilistic Model for Lossless Scalable Point Cloud Attribute Compression <a href="https://ieeexplore.ieee.org/document/10094645" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Kamal Gopikrishnan Nambiar, André Kaup</div>
-    <div style="font-size: 1*1.25rem;">ICASSP, 2023</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Proposes a probabilistic hierarchical model to scale attribute compression in lossless point cloud pipelines.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Deep Probabilistic Model for Lossless Scalable Point Cloud Attribute Compression <a href="https://ieeexplore.ieee.org/document/10094645" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Kamal Gopikrishnan Nambiar, André Kaup</div>
+    <div style="font-size: 1.15rem;">ICASSP, 2023</div>
+    <div style="font-size: 1.05rem;"><em>Proposes a probabilistic hierarchical model to scale attribute compression in lossless point cloud pipelines.</em></div>
   </div>
 </div>
 
@@ -106,10 +106,10 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">Multiresolution Point Cloud Compression for Real-Time Visualization and Streaming <a href="https://ieeexplore.ieee.org/document/10550485" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">**Nguyen, Dat Thanh**, Daniel Zieger, Markus Gambietz, Anne Koelewijn, Marc Stamminger, André Kaup</div>
-    <div style="font-size: 1*1.25rem;">IEEE Asilomar Conference, 2024</div>
-    <div style="font-size: 0.95*1.25rem;"><em>A multiresolution coding method for large-scale point cloud streaming with real-time decoding support.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">Multiresolution Point Cloud Compression for Real-Time Visualization and Streaming <a href="https://ieeexplore.ieee.org/document/10550485" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Nguyen, Dat Thanh, Daniel Zieger, Markus Gambietz, Anne Koelewijn, Marc Stamminger, André Kaup</div>
+    <div style="font-size: 1.15rem;">IEEE Asilomar Conference, 2024</div>
+    <div style="font-size: 1.05rem;"><em>A multiresolution coding method for large-scale point cloud streaming with real-time decoding support.</em></div>
   </div>
 </div>
 
@@ -118,10 +118,9 @@ Below is a selected list of my publications. For the full list, visit [Google Sc
     <img src="{{site.url}}/img/office.JPG" alt="Thumbnail" style="width: 200px; height: auto; margin-right: 20px;" />
   </a>
   <div>
-    <div style="font-size: 1.2*1.25rem; font-weight: bold;">The Bjøntegaard Bible: Why Your Way of Comparing Video Codecs May Be Wrong <a href="https://ieeexplore.ieee.org/document/10425515" target="_blank">[PDF]</a></div>
-    <div style="font-size: 1*1.25rem;">Herglotz, C., et al. including **Nguyen, D.T.**</div>
-    <div style="font-size: 1*1.25rem;">IEEE Transactions on Image Processing, 2024</div>
-    <div style="font-size: 0.95*1.25rem;"><em>Critically analyzes the Bjøntegaard metric and proposes improved evaluation methods for video codec comparison.</em></div>
+    <div style="font-size: 1.3rem; font-weight: bold;">The Bjøntegaard Bible: Why Your Way of Comparing Video Codecs May Be Wrong <a href="https://ieeexplore.ieee.org/document/10425515" target="_blank">[PDF]</a></div>
+    <div style="font-size: 1.15rem;">Herglotz, C., et al. including Nguyen, D.T.</div>
+    <div style="font-size: 1.15rem;">IEEE Transactions on Image Processing, 2024</div>
+    <div style="font-size: 1.05rem;"><em>Critically analyzes the Bjøntegaard metric and proposes improved evaluation methods for video codec comparison.</em></div>
   </div>
 </div>
-
