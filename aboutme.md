@@ -13,12 +13,10 @@ I earned my Master’s degree in Multimedia Networking from [Télécom Paris, In
 # Contact & Profiles
 
 📍 Erlangen (91058), Germany  
-✉️ [Email](mailto:datthanhnguyenx@gmail.com) &nbsp;&nbsp;🌐 [Website](https://dattnguyenx.github.io/aboutme)  
+✉️ [Email: datthanhnguyenx@gmail.com](mailto:datthanhnguyenx@gmail.com) &nbsp;&nbsp;🌐 [Website](https://dattnguyenx.github.io/aboutme)  
 💻 [GitHub](https://github.com/dattnguyenx) &nbsp;&nbsp;🎓 [Google Scholar](https://scholar.google.com/citations?user=uqqqlGgAAAAJ&hl=en) &nbsp;&nbsp;💼 [LinkedIn](https://www.linkedin.com/in/dattnguyenx/)
 
 ---
-
-
 
 # Publications
 
