@@ -10,6 +10,15 @@ In early 2023, I interned as a Research Scientist at Meta Reality Labs, where I 
 
 I earned my Master’s degree in Multimedia Networking from [Télécom Paris, Institut Polytechnique de Paris](https://www.ip-paris.fr/en) (Université Paris-Saclay), in 2020.
 
+# Contact & Profiles
+
+📍 Erlangen (91058), Germany  
+✉️ [Email](mailto:datthanhnguyenx@gmail.com) &nbsp;&nbsp;🌐 [Website](https://dattnguyenx.github.io/aboutme)  
+💻 [GitHub](https://github.com/dattnguyenx) &nbsp;&nbsp;🎓 [Google Scholar](https://scholar.google.com/citations?user=uqqqlGgAAAAJ&hl=en) &nbsp;&nbsp;💼 [LinkedIn](https://www.linkedin.com/in/dattnguyenx/)
+
+---
+
+
 
 # Publications
 
